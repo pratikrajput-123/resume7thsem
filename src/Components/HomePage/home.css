@@ -1,0 +1,95 @@
+
+.left img {
+  width: 650px;
+  border-radius: 5%;
+}
+
+.right p {
+   font-size: 23px;
+   font-family:sans-serif;
+}
+
+.resume {
+    display: flex;
+    
+    padding: 50px;
+    background-color: lightgrey;
+  }
+  
+  .resume-image {
+    margin-right: 70px;
+  }
+ 
+
+  .resume-para h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #4A90E2; /* Light Blue */
+  }
+  
+  .resume-para h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: rgb(12, 43, 97); /* Dark Blue */
+  }
+  
+  .resume-para p {
+    font-size: 23px;
+    line-height: 1.6;
+
+    font-family: 'Arial', sans-serif;
+  }
+
+  .stats-wrap {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+  }
+  .stats-wrap .interview, .stats-wrap .placement {
+    text-align: center;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .stats-wrap h2 {
+    font-size: 24px;
+    color: #4A90E2; /* Light Blue */
+  }
+  
+  .hired-candidates {
+    margin-top: 30px;
+  }
+  
+  .text-content {
+    display: inline-block;
+
+  }
+  
+  .text-content span {
+    padding-bottom: 15px;
+    display: inline-block;
+    margin-right: 50px;
+    font-size: 16px;
+    color: #555;
+  }
+
+
+.Youtube {
+    margin: 20px;
+    display: flex;
+    
+    
+}
+.Youtubeleft,
+.Paragraphright {
+    padding:10px ;
+}
+
+
+.Paragraphright p {
+   font-size: 24px;
+   font-family:sans-serif;
+
+}
